@@ -1,0 +1,13 @@
+{
+  "name": "create-page",
+  "id": "create-page",
+  "description": "create a headless page",
+  "version": "0.0.1",
+  "headerMenuButtons": [
+    {
+      "label": "Create New Screen",
+      "needsModal": true,
+      "id": "create-new-screen"
+    }
+  ]
+}
